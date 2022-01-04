@@ -28,7 +28,7 @@ urlpatterns = [
 """
 postman发生post请求
 
-接口：http://api.luffy.cn:8000/user/login/
+接口：http://127.0.0.1:8000/user/login/
 
 数据：
 {
