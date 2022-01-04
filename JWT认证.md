@@ -1,6 +1,6 @@
 # JWT认证相关
 
-## 1、jwt工作原理
+## jwt工作原理
 ```python
 """
 1) jwt = base64(头部).base(载荷).hash256(base64(头部).base(载荷).密钥)
